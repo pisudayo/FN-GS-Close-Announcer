@@ -7,4 +7,5 @@
  4. main.pyのWEBHOOK_URLとwindow_nameを編集する
  5. start.batをクリックして開始する
 
-## https://github.com/ApfelTeeSaft/Fortnite-GS-Uptime-Announcer←を参考に作りました
+## https://github.com/ApfelTeeSaft/Fortnite-GS-Uptime-Announcer
+↑こちらを参考に作りました。

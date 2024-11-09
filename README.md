@@ -1,12 +1,10 @@
-# Fortnite-GS-Uptime-Announcer
-a very primitive try on an uptime announcer, it should work with every version
+# FN-GS-Close-Announcer
 
- ## How to use
- 1. Download Python 3.11
- 2. Download the Files from the Repository
- 3. Start the file "install_packages.bat"
- 4. Edit the file ".env" and change the variables and add a webhook link (leave the delay and the gameserver name default if using reboot)
- 5. Start the Script by clicking on "start.bat"
- 6. Done! :D
+ ## 使い方
+ 1. Pythonをダウンロード
+ 2. このファイルをダウンロードする
+ 3. install_packages.batを起動する
+ 4. main.pyのWEBHOOK_URLとwindow_nameを編集する
+ 5. start.batをクリックして開始する
 
-## Please credit me when using this on a public server :D
+## https://github.com/ApfelTeeSaft/Fortnite-GS-Uptime-Announcer←を参考に作りました

@@ -52,6 +52,6 @@ def monitor_window(window_name):
         # 10秒ごとにチェック
         time.sleep(10)
 
-# 使用例
+# 監視したいウィンドウ名を設定
 window_name = "Gameserver"  # 監視したいウィンドウ名
 monitor_window(window_name)
